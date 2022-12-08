@@ -1,4 +1,4 @@
-Bird.create!(names: "Black-Capped Chickadee", species: "Poecile Atricapillus")
-Bird.create!(names: "Grackle", species: "Quiscalus Quiscula")
-Bird.create!(names: "Common Starling", species: "Sturnus Vulgaris")
-Bird.create!(names: "Mourning Dove", species: "Zenaida Macroura")
+Bird.create!(name: "Black-Capped Chickadee", species: "Poecile Atricapillus")
+Bird.create!(name: "Grackle", species: "Quiscalus Quiscula")
+Bird.create!(name: "Common Starling", species: "Sturnus Vulgaris")
+Bird.create!(name: "Mourning Dove", species: "Zenaida Macroura")
